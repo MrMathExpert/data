@@ -1,0 +1,2088 @@
+## DCI Random Zips
+1
++-+-+-+-+-+
+Economic Distress Indicators for: 94513
+Brentwood, CA
+
+Population:	58,400
+Minority Share:	44.2%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	9.7%	13.3%
+Housing Vacancy Rate:	3.3%	8.3%
+Adults Not Working:	25.4%	28.2%
+Poverty Rate:	7.5%	15.5%
+Median Income Ratio:	150.0%	100%
+Change in Employment:	39.9%	9.4%
+Change in Businesses:	19.2%	4.2%
+Distress Score:	6.0	
+Distress Rank:	1,560 of 26,126	
+2
++-+-+-+-+-+
+Economic Distress Indicators for: 28398
+Warsaw, NC
+
+Population:	7,380
+Minority Share:	66.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	25.0%	13.3%
+Housing Vacancy Rate:	12.3%	8.3%
+Adults Not Working:	28.3%	28.2%
+Poverty Rate:	33.0%	15.5%
+Median Income Ratio:	62.8%	100%
+Change in Employment:	-4.1%	9.4%
+Change in Businesses:	-3.6%	4.2%
+Distress Score:	92.6	
+Distress Rank:	24,183 of 26,126	
+3
++-+-+-+-+-+
+Economic Distress Indicators for: 14728
+Dewittville, NY
+
+Population:	760
+Minority Share:	0.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	18.5%	13.3%
+Housing Vacancy Rate:	2.8%	8.3%
+Adults Not Working:	29.5%	28.2%
+Poverty Rate:	18.5%	15.5%
+Median Income Ratio:	80.6%	100%
+Change in Employment:	-29.0%	9.4%
+Change in Businesses:	14.3%	4.2%
+Distress Score:	60.7	
+Distress Rank:	15,868 of 26,126	
+4
++-+-+-+-+-+
+Economic Distress Indicators for: 45157
+New Richmond, OH
+
+Population:	9,710
+Minority Share:	2.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	13.1%	13.3%
+Housing Vacancy Rate:	8.9%	8.3%
+Adults Not Working:	34.5%	28.2%
+Poverty Rate:	16.6%	15.5%
+Median Income Ratio:	116.3%	100%
+Change in Employment:	-24.7%	9.4%
+Change in Businesses:	-8.0%	4.2%
+Distress Score:	75.2	
+Distress Rank:	19,635 of 26,126
+5
++-+-+-+-+-+ >> 
+Economic Distress Indicators for: 33762
+Feather Sound, FL
+
+Population:	7,280
+Minority Share:	27.0%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	14.0%	13.3%
+Housing Vacancy Rate:	6.1%	8.3%
+Adults Not Working:	41.0%	28.2%
+Poverty Rate:	11.8%	15.5%
+Median Income Ratio:	129.6%	100%
+Change in Employment:	-3.3%	9.4%
+Change in Businesses:	4.0%	4.2%
+Distress Score:	51.3	
+Distress Rank:	13,394 of 26,126
+6
++-+-+-+-+-+
+Economic Distress Indicators for: 20715
+Bowie, MD
+
+Population:	26,630
+Minority Share:	44.3%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	4.6%	13.3%
+Housing Vacancy Rate:	4.0%	8.3%
+Adults Not Working:	21.2%	28.2%
+Poverty Rate:	3.0%	15.5%
+Median Income Ratio:	144.2%	100%
+Change in Employment:	19.7%	9.4%
+Change in Businesses:	3.8%	4.2%
+Distress Score:	4.3	
+Distress Rank:	1,128 of 26,126	
+7
++-+-+-+-+-+
+Economic Distress Indicators for: 35553
+Double Springs, AL
+
+Population:	4,580
+Minority Share:	4.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	26.8%	13.3%
+Housing Vacancy Rate:	16.7%	8.3%
+Adults Not Working:	44.9%	28.2%
+Poverty Rate:	17.1%	15.5%
+Median Income Ratio:	73.4%	100%
+Change in Employment:	-15.8%	9.4%
+Change in Businesses:	4.2%	4.2%
+Distress Score:	92.5	
+Distress Rank:	24,164 of 26,126
+8
++-+-+-+-+-+
+Economic Distress Indicators for: 47598
+Winslow, IN
+
+Population:	3,470
+Minority Share:	0.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	14.1%	13.3%
+Housing Vacancy Rate:	12.3%	8.3%
+Adults Not Working:	27.4%	28.2%
+Poverty Rate:	15.8%	15.5%
+Median Income Ratio:	86.8%	100%
+Change in Employment:	-0.6%	9.4%
+Change in Businesses:	-12.9%	4.2%
+Distress Score:	78.3	
+Distress Rank:	20,460 of 26,126	
+9
++-+-+-+-+-+
+Economic Distress Indicators for: 49006
+Kalamazoo, MI
+
+Population:	28,350
+Minority Share:	27.5%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	3.7%	13.3%
+Housing Vacancy Rate:	10.2%	8.3%
+Adults Not Working:	24.8%	28.2%
+Poverty Rate:	37.3%	15.5%
+Median Income Ratio:	70.4%	100%
+Change in Employment:	16.2%	9.4%
+Change in Businesses:	5.0%	4.2%
+Distress Score:	51.3	
+Distress Rank:	13,410 of 26,126
+10
++-+-+-+-+-+
+Economic Distress Indicators for: 52206
+Atkins, IA
+
+Population:	2,500
+Minority Share:	5.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	5.3%	13.3%
+Housing Vacancy Rate:	4.8%	8.3%
+Adults Not Working:	11.1%	28.2%
+Poverty Rate:	2.0%	15.5%
+Median Income Ratio:	158.3%	100%
+Change in Employment:	-10.3%	9.4%
+Change in Businesses:	6.3%	4.2%
+Distress Score:	9.0	
+Distress Rank:	2,349 of 26,126
+11
++-+-+-+-+-+
+Economic Distress Indicators for: 46203
+Indianapolis, IN
+
+Population:	38,720
+Minority Share:	27.2%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	27.6%	13.3%
+Housing Vacancy Rate:	18.2%	8.3%
+Adults Not Working:	38.8%	28.2%
+Poverty Rate:	33.1%	15.5%
+Median Income Ratio:	63.2%	100%
+Change in Employment:	19.0%	9.4%
+Change in Businesses:	7.7%	4.2%
+Distress Score:	86.1	
+Distress Rank:	22,486 of 26,126
+12
++-+-+-+-+-+
+Z50470 >> Not present >> Pop == 219 >> Below 500
+13
++-+-+-+-+-+
+Economic Distress Indicators for: 14086
+Lancaster, NY
+
+Population:	32,930
+Minority Share:	4.3%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	4.2%	13.3%
+Housing Vacancy Rate:	5.1%	8.3%
+Adults Not Working:	17.0%	28.2%
+Poverty Rate:	3.6%	15.5%
+Median Income Ratio:	131.6%	100%
+Change in Employment:	4.6%	9.4%
+Change in Businesses:	0.9%	4.2%
+Distress Score:	9.8	
+Distress Rank:	2,563 of 26,126	
+14
++-+-+-+-+-+
+Z99662 >> Not present >> pop == 498 >> below 500
+15
++-+-+-+-+-+
+Economic Distress Indicators for: 30646
+Hull, GA
+
+Population:	6,610
+Minority Share:	20.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	17.6%	13.3%
+Housing Vacancy Rate:	12.9%	8.3%
+Adults Not Working:	39.2%	28.2%
+Poverty Rate:	22.3%	15.5%
+Median Income Ratio:	79.7%	100%
+Change in Employment:	33.1%	9.4%
+Change in Businesses:	13.8%	4.2%
+Distress Score:	66.8	
+Distress Rank:	17,455 of 26,126	
+16
++-+-+-+-+-+
+Economic Distress Indicators for: 15825
+Brookville, PA
+
+Population:	9,330
+Minority Share:	3.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	11.0%	13.3%
+Housing Vacancy Rate:	5.4%	8.3%
+Adults Not Working:	27.4%	28.2%
+Poverty Rate:	13.1%	15.5%
+Median Income Ratio:	80.8%	100%
+Change in Employment:	7.9%	9.4%
+Change in Businesses:	-1.6%	4.2%
+Distress Score:	51.1	
+Distress Rank:	13,352 of 26,126	
+17
++-+-+-+-+-+
+Economic Distress Indicators for: 92071
+Santee, CA
+
+Population:	56,160
+Minority Share:	28.8%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	7.1%	13.3%
+Housing Vacancy Rate:	3.7%	8.3%
+Adults Not Working:	26.9%	28.2%
+Poverty Rate:	7.7%	15.5%
+Median Income Ratio:	123.5%	100%
+Change in Employment:	15.6%	9.4%
+Change in Businesses:	11.1%	4.2%
+Distress Score:	11.3	
+Distress Rank:	2,964 of 26,126	
+18
++-+-+-+-+-+
+Economic Distress Indicators for: 93212
+Corcoran, CA
+
+Population:	24,920
+Minority Share:	80.7%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	42.0%	13.3%
+Housing Vacancy Rate:	6.1%	8.3%
+Adults Not Working:	76.8%	28.2%
+Poverty Rate:	39.1%	15.5%
+Median Income Ratio:	51.4%	100%
+Change in Employment:	-0.3%	9.4%
+Change in Businesses:	6.1%	4.2%
+Distress Score:	89.3	
+Distress Rank:	23,337 of 26,126
+19
++-+-+-+-+-+
+Economic Distress Indicators for: 36451
+Grove Hill, AL
+
+Population:	4,270
+Minority Share:	40.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	18.2%	13.3%
+Housing Vacancy Rate:	12.3%	8.3%
+Adults Not Working:	48.9%	28.2%
+Poverty Rate:	25.9%	15.5%
+Median Income Ratio:	69.1%	100%
+Change in Employment:	10.0%	9.4%
+Change in Businesses:	1.7%	4.2%
+Distress Score:	86.7	
+Distress Rank:	22,646 of 26,126
+20
++-+-+-+-+-+	
+Economic Distress Indicators for: 71049
+Logansport, LA
+
+Population:	3,340
+Minority Share:	30.4%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	15.1%	13.3%
+Housing Vacancy Rate:	24.5%	8.3%
+Adults Not Working:	40.2%	28.2%
+Poverty Rate:	22.8%	15.5%
+Median Income Ratio:	80.0%	100%
+Change in Employment:	24.3%	9.4%
+Change in Businesses:	11.4%	4.2%
+Distress Score:	72.6	
+Distress Rank:	18,968 of 26,126
+21
++-+-+-+-+-+
+Economic Distress Indicators for: 61744
+Gridley, IL
+
+Population:	1,890
+Minority Share:	3.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	4.3%	13.3%
+Housing Vacancy Rate:	9.1%	8.3%
+Adults Not Working:	20.3%	28.2%
+Poverty Rate:	3.4%	15.5%
+Median Income Ratio:	121.6%	100%
+Change in Employment:	-11.5%	9.4%
+Change in Businesses:	-8.2%	4.2%
+Distress Score:	32.9	
+Distress Rank:	8,595 of 26,126	
+22
++-+-+-+-+-+
+Economic Distress Indicators for: 74021
+Collinsville, OK
+
+Population:	18,620
+Minority Share:	24.4%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	8.6%	13.3%
+Housing Vacancy Rate:	4.2%	8.3%
+Adults Not Working:	21.1%	28.2%
+Poverty Rate:	5.9%	15.5%
+Median Income Ratio:	139.8%	100%
+Change in Employment:	33.8%	9.4%
+Change in Businesses:	2.6%	4.2%
+Distress Score:	8.0	
+Distress Rank:	2,087 of 26,126	
+23
++-+-+-+-+-+
+Economic Distress Indicators for: 18840
+Sayre, PA
+
+Population:	11,010
+Minority Share:	2.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	9.4%	13.3%
+Housing Vacancy Rate:	8.3%	8.3%
+Adults Not Working:	30.8%	28.2%
+Poverty Rate:	9.7%	15.5%
+Median Income Ratio:	86.9%	100%
+Change in Employment:	21.7%	9.4%
+Change in Businesses:	-0.7%	4.2%
+Distress Score:	44.9	
+Distress Rank:	11,742 of 26,126
+24
++-+-+-+-+-+
+Economic Distress Indicators for: 97015
+Clackamas, OR
+
+Population:	20,810
+Minority Share:	30.9%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	8.1%	13.3%
+Housing Vacancy Rate:	5.0%	8.3%
+Adults Not Working:	20.3%	28.2%
+Poverty Rate:	9.3%	15.5%
+Median Income Ratio:	116.1%	100%
+Change in Employment:	3.9%	9.4%
+Change in Businesses:	8.8%	4.2%
+Distress Score:	17.8	
+Distress Rank:	4,647 of 26,126	
+25
++-+-+-+-+-+
+Economic Distress Indicators for: 81504
+Clifton, CO
+
+Population:	28,390
+Minority Share:	17.4%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	10.3%	13.3%
+Housing Vacancy Rate:	2.9%	8.3%
+Adults Not Working:	25.6%	28.2%
+Poverty Rate:	12.8%	15.5%
+Median Income Ratio:	84.7%	100%
+Change in Employment:	-3.8%	9.4%
+Change in Businesses:	-7.9%	4.2%
+Distress Score:	53.1	
+Distress Rank:	13,871 of 26,126		
+26
++-+-+-+-+-+
+Economic Distress Indicators for: 87511
+La Villita, NM
+
+Population:	2,720
+Minority Share:	96.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	15.2%	13.3%
+Housing Vacancy Rate:	9.6%	8.3%
+Adults Not Working:	45.8%	28.2%
+Poverty Rate:	18.9%	15.5%
+Median Income Ratio:	89.1%	100%
+Change in Employment:	-20.0%	9.4%
+Change in Businesses:	6.7%	4.2%
+Distress Score:	79.4	
+Distress Rank:	20,737 of 26,126	
+27
++-+-+-+-+-+
+Economic Distress Indicators for: 67137
+Severy, KS
+
+Population:	620
+Minority Share:	9.7%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	11.4%	13.3%
+Housing Vacancy Rate:	20.9%	8.3%
+Adults Not Working:	34.0%	28.2%
+Poverty Rate:	13.8%	15.5%
+Median Income Ratio:	75.0%	100%
+Change in Employment:	-21.3%	9.4%
+Change in Businesses:	-6.3%	4.2%
+Distress Score:	88.5	
+Distress Rank:	23,128 of 26,126	
+28
++-+-+-+-+-+
+Economic Distress Indicators for: 46163
+New Palestine, IN
+
+Population:	11,580
+Minority Share:	2.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	3.0%	13.3%
+Housing Vacancy Rate:	3.7%	8.3%
+Adults Not Working:	24.1%	28.2%
+Poverty Rate:	3.3%	15.5%
+Median Income Ratio:	166.4%	100%
+Change in Employment:	38.0%	9.4%
+Change in Businesses:	13.6%	4.2%
+Distress Score:	1.3	
+Distress Rank:	342 of 26,126
+29
++-+-+-+-+-+
+Economic Distress Indicators for: 98252
+Granite Falls, WA
+
+Population:	9,170
+Minority Share:	14.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	8.7%	13.3%
+Housing Vacancy Rate:	8.5%	8.3%
+Adults Not Working:	24.6%	28.2%
+Poverty Rate:	6.7%	15.5%
+Median Income Ratio:	112.1%	100%
+Change in Employment:	51.7%	9.4%
+Change in Businesses:	0.8%	4.2%
+Distress Score:	21.9	
+Distress Rank:	5,711 of 26,126
+30
++-+-+-+-+-+
+Economic Distress Indicators for: 45123
+Greenfield, OH
+
+Population:	8,650
+Minority Share:	3.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	15.6%	13.3%
+Housing Vacancy Rate:	7.8%	8.3%
+Adults Not Working:	37.6%	28.2%
+Poverty Rate:	26.0%	15.5%
+Median Income Ratio:	69.6%	100%
+Change in Employment:	8.0%	9.4%
+Change in Businesses:	-1.6%	4.2%
+Distress Score:	80.9	
+Distress Rank:	21,138 of 26,126	
+31
++-+-+-+-+-+
+mc_x
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+32
++-+-+-+-+-+
+Economic Distress Indicators for: 82433
+Meeteetse, WY
+
+Population:	920
+Minority Share:	11.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	5.2%	13.3%
+Housing Vacancy Rate:	5.4%	8.3%
+Adults Not Working:	26.0%	28.2%
+Poverty Rate:	5.2%	15.5%
+Median Income Ratio:	78.5%	100%
+Change in Employment:	-10.3%	9.4%
+Change in Businesses:	-7.7%	4.2%
+Distress Score:	46.1	
+Distress Rank:	12,038 of 26,126	
+33
++-+-+-+-+-+
+Economic Distress Indicators for: 60458
+Justice, IL
+
+Population:	14,770
+Minority Share:	42.1%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	18.9%	13.3%
+Housing Vacancy Rate:	13.4%	8.3%
+Adults Not Working:	27.5%	28.2%
+Poverty Rate:	18.9%	15.5%
+Median Income Ratio:	84.1%	100%
+Change in Employment:	9.7%	9.4%
+Change in Businesses:	16.0%	4.2%
+Distress Score:	62.3	
+Distress Rank:	16,266 of 26,126	
+34
++-+-+-+-+-+
+Economic Distress Indicators for: 10507
+Bedford Hills, NY
+
+Population:	7,000
+Minority Share:	43.8%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	22.2%	13.3%
+Housing Vacancy Rate:	10.3%	8.3%
+Adults Not Working:	48.5%	28.2%
+Poverty Rate:	8.3%	15.5%
+Median Income Ratio:	108.6%	100%
+Change in Employment:	4.2%	9.4%
+Change in Businesses:	1.4%	4.2%
+Distress Score:	64.6	
+Distress Rank:	16,874 of 26,126	
+35
++-+-+-+-+-+
+Economic Distress Indicators for: 16686
+Tyrone, PA
+
+Population:	13,130
+Minority Share:	2.1%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	6.8%	13.3%
+Housing Vacancy Rate:	8.6%	8.3%
+Adults Not Working:	25.3%	28.2%
+Poverty Rate:	11.2%	15.5%
+Median Income Ratio:	94.0%	100%
+Change in Employment:	16.4%	9.4%
+Change in Businesses:	-9.0%	4.2%
+Distress Score:	42.6	
+Distress Rank:	11,122 of 26,126	
+36
++-+-+-+-+-+
+Economic Distress Indicators for: 04270
+Oxford, ME
+
+Population:	6,440
+Minority Share:	2.4%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	11.3%	13.3%
+Housing Vacancy Rate:	6.6%	8.3%
+Adults Not Working:	34.5%	28.2%
+Poverty Rate:	19.1%	15.5%
+Median Income Ratio:	81.0%	100%
+Change in Employment:	9.0%	9.4%
+Change in Businesses:	4.7%	4.2%
+Distress Score:	58.4	
+Distress Rank:	15,259 of 26,126
+37
++-+-+-+-+-+
+Economic Distress Indicators for: 84305
+Clarkston, UT
+
+Population:	720
+Minority Share:	6.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	6.5%	13.3%
+Housing Vacancy Rate:	6.8%	8.3%
+Adults Not Working:	17.8%	28.2%
+Poverty Rate:	1.4%	15.5%
+Median Income Ratio:	106.6%	100%
+Change in Employment:	162.5%	9.4%
+Change in Businesses:	16.7%	4.2%
+Distress Score:	3.4	
+Distress Rank:	878 of 26,126	
+38
++-+-+-+-+-+
+Economic Distress Indicators for: 85003
+Phoenix, AZ
+
+Population:	9,480
+Minority Share:	52.1%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	20.4%	13.3%
+Housing Vacancy Rate:	17.6%	8.3%
+Adults Not Working:	41.9%	28.2%
+Poverty Rate:	31.5%	15.5%
+Median Income Ratio:	81.7%	100%
+Change in Employment:	12.5%	9.4%
+Change in Businesses:	-0.9%	4.2%
+Distress Score:	89.0	
+Distress Rank:	23,243 of 26,126	
+39
++-+-+-+-+-+
+Economic Distress Indicators for: 75418
+Bonham, TX
+
+Population:	14,080
+Minority Share:	25.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	19.8%	13.3%
+Housing Vacancy Rate:	10.2%	8.3%
+Adults Not Working:	46.9%	28.2%
+Poverty Rate:	18.8%	15.5%
+Median Income Ratio:	78.1%	100%
+Change in Employment:	3.2%	9.4%
+Change in Businesses:	1.1%	4.2%
+Distress Score:	83.7	
+Distress Rank:	21,855 of 26,126
+40
++-+-+-+-+-+
+Economic Distress Indicators for: 30040
+Cumming, GA
+
+Population:	61,660
+Minority Share:	21.9%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	9.2%	13.3%
+Housing Vacancy Rate:	9.4%	8.3%
+Adults Not Working:	22.3%	28.2%
+Poverty Rate:	7.2%	15.5%
+Median Income Ratio:	170.2%	100%
+Change in Employment:	16.6%	9.4%
+Change in Businesses:	14.5%	4.2%
+Distress Score:	14.2	
+Distress Rank:	3,710 of 26,126	
+41
++-+-+-+-+-+
+Economic Distress Indicators for: 19960
+Lincoln, DE
+
+Population:	7,140
+Minority Share:	41.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	17.9%	13.3%
+Housing Vacancy Rate:	8.9%	8.3%
+Adults Not Working:	36.2%	28.2%
+Poverty Rate:	15.3%	15.5%
+Median Income Ratio:	71.4%	100%
+Change in Employment:	-1.7%	9.4%
+Change in Businesses:	-1.9%	4.2%
+Distress Score:	82.6	
+Distress Rank:	21,568 of 26,126	
+42
++-+-+-+-+-+
+Economic Distress Indicators for: 57401
+Aberdeen, SD
+
+Population:	31,560
+Minority Share:	11.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	8.1%	13.3%
+Housing Vacancy Rate:	6.1%	8.3%
+Adults Not Working:	14.6%	28.2%
+Poverty Rate:	10.7%	15.5%
+Median Income Ratio:	101.3%	100%
+Change in Employment:	2.3%	9.4%
+Change in Businesses:	-2.8%	4.2%
+Distress Score:	32.2	
+Distress Rank:	8,416 of 26,126
+43
++-+-+-+-+-+
+Z18825 >> Not present >> pop == 144 >> below 500
+44
++-+-+-+-+-+
+Economic Distress Indicators for: 20877
+Gaithersburg, MD
+
+Population:	36,720
+Minority Share:	73.0%
+Density:	Very High
+ 	Zip	U.S.
+No High School Diploma:	20.5%	13.3%
+Housing Vacancy Rate:	6.5%	8.3%
+Adults Not Working:	21.2%	28.2%
+Poverty Rate:	12.9%	15.5%
+Median Income Ratio:	88.3%	100%
+Change in Employment:	-12.1%	9.4%
+Change in Businesses:	5.7%	4.2%
+Distress Score:	54.5	
+Distress Rank:	14,228 of 26,126
+45
++-+-+-+-+-+
+Economic Distress Indicators for: 67838
+Deerfield, KS
+
+Population:	1,060
+Minority Share:	47.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	28.8%	13.3%
+Housing Vacancy Rate:	7.0%	8.3%
+Adults Not Working:	23.0%	28.2%
+Poverty Rate:	19.3%	15.5%
+Median Income Ratio:	91.1%	100%
+Change in Employment:	42.3%	9.4%
+Change in Businesses:	-14.3%	4.2%
+Distress Score:	60.3	
+Distress Rank:	15,766 of 26,126	
+46
++-+-+-+-+-+
+Economic Distress Indicators for: 56072
+New Richland, MN
+
+Population:	2,270
+Minority Share:	6.0%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	10.9%	13.3%
+Housing Vacancy Rate:	6.0%	8.3%
+Adults Not Working:	19.6%	28.2%
+Poverty Rate:	8.0%	15.5%
+Median Income Ratio:	83.1%	100%
+Change in Employment:	4.2%	9.4%
+Change in Businesses:	-14.3%	4.2%
+Distress Score:	45.3	
+Distress Rank:	11,847 of 26,126
+47
++-+-+-+-+-+
+Economic Distress Indicators for: 11375
+New York, NY
+
+Population:	70,720
+Minority Share:	45.6%
+Density:	Very High
+ 	Zip	U.S.
+No High School Diploma:	6.7%	13.3%
+Housing Vacancy Rate:	5.3%	8.3%
+Adults Not Working:	21.5%	28.2%
+Poverty Rate:	8.5%	15.5%
+Median Income Ratio:	122.2%	100%
+Change in Employment:	27.1%	9.4%
+Change in Businesses:	1.3%	4.2%
+Distress Score:	13.2	
+Distress Rank:	3,456 of 26,126	
+48
++-+-+-+-+-+
+Economic Distress Indicators for: 21795
+Halfway, MD
+
+Population:	9,290
+Minority Share:	5.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	11.9%	13.3%
+Housing Vacancy Rate:	7.1%	8.3%
+Adults Not Working:	22.2%	28.2%
+Poverty Rate:	6.8%	15.5%
+Median Income Ratio:	76.5%	100%
+Change in Employment:	16.1%	9.4%
+Change in Businesses:	8.3%	4.2%
+Distress Score:	30.9	
+Distress Rank:	8,078 of 26,126
+49
++-+-+-+-+-+
+Economic Distress Indicators for: 43450
+Pemberville, OH
+
+Population:	3,580
+Minority Share:	8.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	4.5%	13.3%
+Housing Vacancy Rate:	6.2%	8.3%
+Adults Not Working:	28.5%	28.2%
+Poverty Rate:	12.8%	15.5%
+Median Income Ratio:	116.2%	100%
+Change in Employment:	-5.3%	9.4%
+Change in Businesses:	1.5%	4.2%
+Distress Score:	37.1	
+Distress Rank:	9,686 of 26,126
+50
++-+-+-+-+-+
+Economic Distress Indicators for: 78615
+Coupland, TX
+
+Population:	1,050
+Minority Share:	27.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	14.5%	13.3%
+Housing Vacancy Rate:	12.0%	8.3%
+Adults Not Working:	32.0%	28.2%
+Poverty Rate:	16.6%	15.5%
+Median Income Ratio:	84.9%	100%
+Change in Employment:	-27.6%	9.4%
+Change in Businesses:	-10.0%	4.2%
+Distress Score:	87.3	
+Distress Rank:	22,811 of 26,126	
+51+-+-+-+-+-+
+Economic Distress Indicators for: 18655
+Shickshinny, PA
+
+Population:	6,250
+Minority Share:	1.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	12.4%	13.3%
+Housing Vacancy Rate:	11.4%	8.3%
+Adults Not Working:	34.3%	28.2%
+Poverty Rate:	11.4%	15.5%
+Median Income Ratio:	86.4%	100%
+Change in Employment:	13.9%	9.4%
+Change in Businesses:	-2.9%	4.2%
+Distress Score:	63.5	
+Distress Rank:	16,587 of 26,126	
+52+-+-+-+-+-+
+Economic Distress Indicators for: 33442
+Deerfield Beach, FL
+
+Population:	29,650
+Minority Share:	28.3%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	7.6%	13.3%
+Housing Vacancy Rate:	6.4%	8.3%
+Adults Not Working:	22.6%	28.2%
+Poverty Rate:	13.1%	15.5%
+Median Income Ratio:	87.4%	100%
+Change in Employment:	8.2%	9.4%
+Change in Businesses:	8.0%	4.2%
+Distress Score:	31.6	
+Distress Rank:	8,258 of 26,126	
+53+-+-+-+-+-+
+Economic Distress Indicators for: 47862
+Montezuma, IN
+
+Population:	1,530
+Minority Share:	4.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	15.2%	13.3%
+Housing Vacancy Rate:	20.0%	8.3%
+Adults Not Working:	33.8%	28.2%
+Poverty Rate:	22.5%	15.5%
+Median Income Ratio:	83.7%	100%
+Change in Employment:	48.1%	9.4%
+Change in Businesses:	4.2%	4.2%
+Distress Score:	68.9	
+Distress Rank:	18,005 of 26,126	
+54+-+-+-+-+-+
+Economic Distress Indicators for: 31824
+Webster County, GA
+
+Population:	1,920
+Minority Share:	58.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	20.4%	13.3%
+Housing Vacancy Rate:	15.2%	8.3%
+Adults Not Working:	31.9%	28.2%
+Poverty Rate:	23.2%	15.5%
+Median Income Ratio:	68.0%	100%
+Change in Employment:	77.0%	9.4%
+Change in Businesses:	10.5%	4.2%
+Distress Score:	69.1	
+Distress Rank:	18,041 of 26,126	
+55+-+-+-+-+-+
+Economic Distress Indicators for: 25443
+Shepherdstown, WV
+
+Population:	7,440
+Minority Share:	13.7%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	6.3%	13.3%
+Housing Vacancy Rate:	9.7%	8.3%
+Adults Not Working:	26.7%	28.2%
+Poverty Rate:	9.1%	15.5%
+Median Income Ratio:	162.6%	100%
+Change in Employment:	12.4%	9.4%
+Change in Businesses:	-5.9%	4.2%
+Distress Score:	32.4	
+Distress Rank:	8,454 of 26,126
+56+-+-+-+-+-+
+Economic Distress Indicators for: 39071
+Flora, MS
+
+Population:	5,900
+Minority Share:	49.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	19.6%	13.3%
+Housing Vacancy Rate:	7.3%	8.3%
+Adults Not Working:	32.5%	28.2%
+Poverty Rate:	21.0%	15.5%
+Median Income Ratio:	126.8%	100%
+Change in Employment:	-0.5%	9.4%
+Change in Businesses:	9.4%	4.2%
+Distress Score:	56.9	
+Distress Rank:	14,857 of 26,126	
+57+-+-+-+-+-+
+Economic Distress Indicators for: 57105
+Sioux Falls, SD
+
+Population:	22,710
+Minority Share:	13.1%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	4.0%	13.3%
+Housing Vacancy Rate:	6.7%	8.3%
+Adults Not Working:	17.0%	28.2%
+Poverty Rate:	9.6%	15.5%
+Median Income Ratio:	106.0%	100%
+Change in Employment:	7.3%	9.4%
+Change in Businesses:	3.0%	4.2%
+Distress Score:	18.6	
+Distress Rank:	4,859 of 26,126
+58+-+-+-+-+-+
+Economic Distress Indicators for: 14478
+Keuka Park, NY
+
+Population:	1,480
+Minority Share:	11.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	8.2%	13.3%
+Housing Vacancy Rate:	2.4%	8.3%
+Adults Not Working:	24.7%	28.2%
+Poverty Rate:	0.0%	15.5%
+Median Income Ratio:	154.0%	100%
+Change in Employment:	6.3%	9.4%
+Change in Businesses:	21.4%	4.2%
+Distress Score:	5.7	
+Distress Rank:	1,492 of 26,126
+59+-+-+-+-+-+
+Economic Distress Indicators for: 48187
+Canton, MI
+
+Population:	48,290
+Minority Share:	27.0%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	5.0%	13.3%
+Housing Vacancy Rate:	4.7%	8.3%
+Adults Not Working:	21.3%	28.2%
+Poverty Rate:	5.0%	15.5%
+Median Income Ratio:	159.0%	100%
+Change in Employment:	13.7%	9.4%
+Change in Businesses:	3.9%	4.2%
+Distress Score:	6.8	
+Distress Rank:	1,767 of 26,126	
+60+-+-+-+-+-+
+Z67468 >> Not Present >> Pop below 500
+61+-+-+-+-+-+
+Economic Distress Indicators for: 19063
+Media, PA
+
+Population:	35,070
+Minority Share:	14.1%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	3.9%	13.3%
+Housing Vacancy Rate:	6.0%	8.3%
+Adults Not Working:	18.6%	28.2%
+Poverty Rate:	4.3%	15.5%
+Median Income Ratio:	166.2%	100%
+Change in Employment:	4.5%	9.4%
+Change in Businesses:	-0.6%	4.2%
+Distress Score:	12.5	
+Distress Rank:	3,256 of 26,126
+62+-+-+-+-+-+
+Economic Distress Indicators for: 23093
+Louisa, VA
+
+Population:	12,810
+Minority Share:	26.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	16.4%	13.3%
+Housing Vacancy Rate:	11.4%	8.3%
+Adults Not Working:	28.7%	28.2%
+Poverty Rate:	10.7%	15.5%
+Median Income Ratio:	87.4%	100%
+Change in Employment:	-8.4%	9.4%
+Change in Businesses:	1.2%	4.2%
+Distress Score:	69.0	
+Distress Rank:	18,016 of 26,126	
+63+-+-+-+-+-+
+Economic Distress Indicators for: 81650
+Rifle, CO
+
+Population:	13,240
+Minority Share:	28.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	16.5%	13.3%
+Housing Vacancy Rate:	12.4%	8.3%
+Adults Not Working:	29.2%	28.2%
+Poverty Rate:	15.2%	15.5%
+Median Income Ratio:	88.5%	100%
+Change in Employment:	-12.7%	9.4%
+Change in Businesses:	-5.9%	4.2%
+Distress Score:	82.1	
+Distress Rank:	21,442 of 26,126
+64+-+-+-+-+-+
+Economic Distress Indicators for: 45212
+Norwood, OH
+
+Population:	22,160
+Minority Share:	19.6%
+Density:	Very High
+ 	Zip	U.S.
+No High School Diploma:	16.5%	13.3%
+Housing Vacancy Rate:	14.6%	8.3%
+Adults Not Working:	25.2%	28.2%
+Poverty Rate:	22.0%	15.5%
+Median Income Ratio:	79.1%	100%
+Change in Employment:	29.6%	9.4%
+Change in Businesses:	6.3%	4.2%
+Distress Score:	61.4	
+Distress Rank:	16,039 of 26,126
+65+-+-+-+-+-+
+Economic Distress Indicators for: 07828
+Budd Lake, NJ
+
+Population:	14,500
+Minority Share:	32.2%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	4.6%	13.3%
+Housing Vacancy Rate:	5.9%	8.3%
+Adults Not Working:	19.2%	28.2%
+Poverty Rate:	5.6%	15.5%
+Median Income Ratio:	107.8%	100%
+Change in Employment:	17.8%	9.4%
+Change in Businesses:	7.2%	4.2%
+Distress Score:	8.2	
+Distress Rank:	2,143 of 26,126
+66+-+-+-+-+-+
+Economic Distress Indicators for: 95563
+Salyer, CA
+
+Population:	720
+Minority Share:	18.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	6.8%	13.3%
+Housing Vacancy Rate:	2.0%	8.3%
+Adults Not Working:	32.6%	28.2%
+Poverty Rate:	13.3%	15.5%
+Median Income Ratio:	70.8%	100%
+Change in Employment:	-58.5%	9.4%
+Change in Businesses:	14.3%	4.2%
+Distress Score:	48.3	
+Distress Rank:	12,623 of 26,126
+67+-+-+-+-+-+
+Z40988 >> Not Present >> Pop below 500
+68+-+-+-+-+-+
+Economic Distress Indicators for: 21120
+Parkton, MD
+
+Population:	7,450
+Minority Share:	5.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	4.9%	13.3%
+Housing Vacancy Rate:	1.7%	8.3%
+Adults Not Working:	20.9%	28.2%
+Poverty Rate:	2.4%	15.5%
+Median Income Ratio:	139.6%	100%
+Change in Employment:	4.9%	9.4%
+Change in Businesses:	7.1%	4.2%
+Distress Score:	5.1	
+Distress Rank:	1,324 of 26,126
+69+-+-+-+-+-+
+Economic Distress Indicators for: 30306
+Atlanta, GA
+
+Population:	22,330
+Minority Share:	15.2%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	2.6%	13.3%
+Housing Vacancy Rate:	8.7%	8.3%
+Adults Not Working:	17.5%	28.2%
+Poverty Rate:	7.9%	15.5%
+Median Income Ratio:	177.8%	100%
+Change in Employment:	7.7%	9.4%
+Change in Businesses:	5.3%	4.2%
+Distress Score:	11.5	
+Distress Rank:	2,995 of 26,126	
+70+-+-+-+-+-+
+Economic Distress Indicators for: 70529
+Duson, LA
+
+Population:	12,030
+Minority Share:	23.4%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	19.9%	13.3%
+Housing Vacancy Rate:	11.0%	8.3%
+Adults Not Working:	28.7%	28.2%
+Poverty Rate:	15.1%	15.5%
+Median Income Ratio:	124.1%	100%
+Change in Employment:	12.9%	9.4%
+Change in Businesses:	22.7%	4.2%
+Distress Score:	43.1	
+Distress Rank:	11,273 of 26,126
+71+-+-+-+-+-+
+Economic Distress Indicators for: 54772
+Wheeler, WI
+
+Population:	1,000
+Minority Share:	4.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	13.5%	13.3%
+Housing Vacancy Rate:	7.3%	8.3%
+Adults Not Working:	33.5%	28.2%
+Poverty Rate:	14.6%	15.5%
+Median Income Ratio:	89.3%	100%
+Change in Employment:	-66.7%	9.4%
+Change in Businesses:	-14.3%	4.2%
+Distress Score:	80.6	
+Distress Rank:	21,048 of 26,126	
+72+-+-+-+-+-+
+Economic Distress Indicators for: 16056
+Saxonburg, PA
+
+Population:	4,610
+Minority Share:	1.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	6.6%	13.3%
+Housing Vacancy Rate:	7.4%	8.3%
+Adults Not Working:	24.7%	28.2%
+Poverty Rate:	8.9%	15.5%
+Median Income Ratio:	97.3%	100%
+Change in Employment:	-15.3%	9.4%
+Change in Businesses:	7.8%	4.2%
+Distress Score:	36.4	
+Distress Rank:	9,519 of 26,126
+73+-+-+-+-+-+
+Economic Distress Indicators for: 84025
+Farmington, UT
+
+Population:	21,280
+Minority Share:	7.4%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	2.0%	13.3%
+Housing Vacancy Rate:	2.5%	8.3%
+Adults Not Working:	23.2%	28.2%
+Poverty Rate:	3.7%	15.5%
+Median Income Ratio:	152.6%	100%
+Change in Employment:	95.8%	9.4%
+Change in Businesses:	39.0%	4.2%
+Distress Score:	0.4	
+Distress Rank:	94 of 26,126
+74+-+-+-+-+-+
+Economic Distress Indicators for: 91342
+Los Angeles, CA
+
+Population:	93,470
+Minority Share:	86.3%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	30.7%	13.3%
+Housing Vacancy Rate:	4.8%	8.3%
+Adults Not Working:	29.0%	28.2%
+Poverty Rate:	17.1%	15.5%
+Median Income Ratio:	97.6%	100%
+Change in Employment:	4.9%	9.4%
+Change in Businesses:	12.4%	4.2%
+Distress Score:	50.7	
+Distress Rank:	13,249 of 26,126
+75+-+-+-+-+-+
+Economic Distress Indicators for: 33134
+Coral Gables, FL
+
+Population:	42,020
+Minority Share:	79.6%
+Density:	Very High
+ 	Zip	U.S.
+No High School Diploma:	11.7%	13.3%
+Housing Vacancy Rate:	8.2%	8.3%
+Adults Not Working:	21.9%	28.2%
+Poverty Rate:	11.4%	15.5%
+Median Income Ratio:	121.9%	100%
+Change in Employment:	13.8%	9.4%
+Change in Businesses:	9.4%	4.2%
+Distress Score:	25.3	
+Distress Rank:	6,607 of 26,126	
+76+-+-+-+-+-+
+Economic Distress Indicators for: 38114
+Memphis, TN
+
+Population:	26,030
+Minority Share:	94.8%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	23.6%	13.3%
+Housing Vacancy Rate:	26.8%	8.3%
+Adults Not Working:	47.9%	28.2%
+Poverty Rate:	42.0%	15.5%
+Median Income Ratio:	47.8%	100%
+Change in Employment:	-1.4%	9.4%
+Change in Businesses:	-2.7%	4.2%
+Distress Score:	98.5	
+Distress Rank:	25,725 of 26,126
+77+-+-+-+-+-+
+Economic Distress Indicators for: 62835
+Enfield, IL
+
+Population:	1,080
+Minority Share:	0.4%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	13.3%	13.3%
+Housing Vacancy Rate:	11.0%	8.3%
+Adults Not Working:	35.1%	28.2%
+Poverty Rate:	16.1%	15.5%
+Median Income Ratio:	66.2%	100%
+Change in Employment:	-31.1%	9.4%
+Change in Businesses:	-10.5%	4.2%
+Distress Score:	90.9	
+Distress Rank:	23,739 of 26,126	
+78+-+-+-+-+-+
+Economic Distress Indicators for: 78219
+Kirby, TX
+
+Population:	15,390
+Minority Share:	80.1%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	19.9%	13.3%
+Housing Vacancy Rate:	8.7%	8.3%
+Adults Not Working:	31.5%	28.2%
+Poverty Rate:	21.7%	15.5%
+Median Income Ratio:	67.3%	100%
+Change in Employment:	9.9%	9.4%
+Change in Businesses:	2.7%	4.2%
+Distress Score:	74.6	
+Distress Rank:	19,498 of 26,126	
+79+-+-+-+-+-+
+Economic Distress Indicators for: 33541
+Zephyrhills, FL
+
+Population:	19,930
+Minority Share:	16.7%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	15.7%	13.3%
+Housing Vacancy Rate:	11.2%	8.3%
+Adults Not Working:	47.6%	28.2%
+Poverty Rate:	10.0%	15.5%
+Median Income Ratio:	81.7%	100%
+Change in Employment:	-4.5%	9.4%
+Change in Businesses:	-0.4%	4.2%
+Distress Score:	79.9	
+Distress Rank:	20,870 of 26,126
+80+-+-+-+-+-+
+Economic Distress Indicators for: 30660
+Rayle, GA
+
+Population:	1,100
+Minority Share:	40.1%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	27.7%	13.3%
+Housing Vacancy Rate:	21.7%	8.3%
+Adults Not Working:	30.2%	28.2%
+Poverty Rate:	40.1%	15.5%
+Median Income Ratio:	77.0%	100%
+Change in Employment:	-26.1%	9.4%
+Change in Businesses:	16.7%	4.2%
+Distress Score:	89.7	
+Distress Rank:	23,442 of 26,126	
+81+-+-+-+-+-+
+Economic Distress Indicators for: 35563
+Guin, AL
+
+Population:	4,600
+Minority Share:	5.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	19.3%	13.3%
+Housing Vacancy Rate:	10.7%	8.3%
+Adults Not Working:	35.1%	28.2%
+Poverty Rate:	26.5%	15.5%
+Median Income Ratio:	82.3%	100%
+Change in Employment:	-0.8%	9.4%
+Change in Businesses:	-12.7%	4.2%
+Distress Score:	90.8	
+Distress Rank:	23,720 of 26,126	
+82+-+-+-+-+-+
+Economic Distress Indicators for: 42129
+Edmonton, KY
+
+Population:	6,860
+Minority Share:	3.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	22.1%	13.3%
+Housing Vacancy Rate:	15.9%	8.3%
+Adults Not Working:	35.2%	28.2%
+Poverty Rate:	20.3%	15.5%
+Median Income Ratio:	73.0%	100%
+Change in Employment:	-5.9%	9.4%
+Change in Businesses:	0.0%	4.2%
+Distress Score:	91.1	
+Distress Rank:	23,788 of 26,126
+83+-+-+-+-+-+
+Economic Distress Indicators for: 17527
+Gap, PA
+
+Population:	6,010
+Minority Share:	5.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	30.3%	13.3%
+Housing Vacancy Rate:	4.3%	8.3%
+Adults Not Working:	24.5%	28.2%
+Poverty Rate:	10.3%	15.5%
+Median Income Ratio:	107.9%	100%
+Change in Employment:	7.2%	9.4%
+Change in Businesses:	4.3%	4.2%
+Distress Score:	38.6	
+Distress Rank:	10,091 of 26,126
+84+-+-+-+-+-+
+Economic Distress Indicators for: 54937
+North Fond du Lac, WI
+
+Population:	19,120
+Minority Share:	8.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	8.0%	13.3%
+Housing Vacancy Rate:	3.3%	8.3%
+Adults Not Working:	23.9%	28.2%
+Poverty Rate:	6.7%	15.5%
+Median Income Ratio:	115.4%	100%
+Change in Employment:	31.1%	9.4%
+Change in Businesses:	16.0%	4.2%
+Distress Score:	6.4	
+Distress Rank:	1,668 of 26,126
+85+-+-+-+-+-+
+Economic Distress Indicators for: 28771
+Robbinsville, NC
+
+Population:	8,110
+Minority Share:	12.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	22.3%	13.3%
+Housing Vacancy Rate:	10.3%	8.3%
+Adults Not Working:	44.6%	28.2%
+Poverty Rate:	22.6%	15.5%
+Median Income Ratio:	72.1%	100%
+Change in Employment:	-15.9%	9.4%
+Change in Businesses:	1.3%	4.2%
+Distress Score:	92.1	
+Distress Rank:	24,071 of 26,126	
+86+-+-+-+-+-+
+Economic Distress Indicators for: 99224
+Spokane, WA
+
+Population:	21,380
+Minority Share:	16.4%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	6.0%	13.3%
+Housing Vacancy Rate:	6.3%	8.3%
+Adults Not Working:	33.5%	28.2%
+Poverty Rate:	12.2%	15.5%
+Median Income Ratio:	96.3%	100%
+Change in Employment:	28.0%	9.4%
+Change in Businesses:	14.6%	4.2%
+Distress Score:	25.4	
+Distress Rank:	6,631 of 26,126
+87+-+-+-+-+-+
+Economic Distress Indicators for: 93465
+Templeton, CA
+
+Population:	8,830
+Minority Share:	20.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	6.1%	13.3%
+Housing Vacancy Rate:	8.8%	8.3%
+Adults Not Working:	26.1%	28.2%
+Poverty Rate:	9.5%	15.5%
+Median Income Ratio:	125.7%	100%
+Change in Employment:	9.9%	9.4%
+Change in Businesses:	8.1%	4.2%
+Distress Score:	23.2	
+Distress Rank:	6,054 of 26,126
+88+-+-+-+-+-+
+Economic Distress Indicators for: 77022
+Houston, TX
+
+Population:	28,430
+Minority Share:	94.9%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	45.6%	13.3%
+Housing Vacancy Rate:	15.4%	8.3%
+Adults Not Working:	33.2%	28.2%
+Poverty Rate:	29.4%	15.5%
+Median Income Ratio:	58.0%	100%
+Change in Employment:	8.5%	9.4%
+Change in Businesses:	4.1%	4.2%
+Distress Score:	89.2	
+Distress Rank:	23,292 of 26,126	
+89+-+-+-+-+-+
+Economic Distress Indicators for: 83654
+New Meadows, ID
+
+Population:	1,480
+Minority Share:	12.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	7.7%	13.3%
+Housing Vacancy Rate:	4.6%	8.3%
+Adults Not Working:	40.5%	28.2%
+Poverty Rate:	12.5%	15.5%
+Median Income Ratio:	81.8%	100%
+Change in Employment:	36.3%	9.4%
+Change in Businesses:	-23.6%	4.2%
+Distress Score:	52.2	
+Distress Rank:	13,628 of 26,126	
+90+-+-+-+-+-+
+Economic Distress Indicators for: 17036
+Hummelstown, PA
+
+Population:	21,790
+Minority Share:	16.4%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	5.5%	13.3%
+Housing Vacancy Rate:	6.0%	8.3%
+Adults Not Working:	19.5%	28.2%
+Poverty Rate:	6.5%	15.5%
+Median Income Ratio:	133.0%	100%
+Change in Employment:	20.7%	9.4%
+Change in Businesses:	1.3%	4.2%
+Distress Score:	9.9	
+Distress Rank:	2,579 of 26,126
+91+-+-+-+-+-+
+Economic Distress Indicators for: 12173
+Stuyvesant, NY
+
+Population:	1,740
+Minority Share:	6.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	6.7%	13.3%
+Housing Vacancy Rate:	7.0%	8.3%
+Adults Not Working:	23.7%	28.2%
+Poverty Rate:	14.1%	15.5%
+Median Income Ratio:	116.2%	100%
+Change in Employment:	0.0%	9.4%
+Change in Businesses:	-8.3%	4.2%
+Distress Score:	43.3	
+Distress Rank:	11,311 of 26,126	
+92+-+-+-+-+-+
+Economic Distress Indicators for: 60639
+Chicago, IL
+
+Population:	91,380
+Minority Share:	93.3%
+Density:	Very High
+ 	Zip	U.S.
+No High School Diploma:	39.7%	13.3%
+Housing Vacancy Rate:	9.8%	8.3%
+Adults Not Working:	31.3%	28.2%
+Poverty Rate:	25.2%	15.5%
+Median Income Ratio:	67.4%	100%
+Change in Employment:	-5.5%	9.4%
+Change in Businesses:	7.4%	4.2%
+Distress Score:	85.4	
+Distress Rank:	22,299 of 26,126	
+93+-+-+-+-+-+
+Economic Distress Indicators for: 25043
+Clay, WV
+
+Population:	1,720
+Minority Share:	1.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	23.3%	13.3%
+Housing Vacancy Rate:	8.0%	8.3%
+Adults Not Working:	58.9%	28.2%
+Poverty Rate:	27.4%	15.5%
+Median Income Ratio:	60.8%	100%
+Change in Employment:	-9.6%	9.4%
+Change in Businesses:	-18.0%	4.2%
+Distress Score:	97.0	
+Distress Rank:	25,352 of 26,126	
+94+-+-+-+-+-+
+Economic Distress Indicators for: 08087
+Mystic Island, NJ
+
+Population:	24,450
+Minority Share:	9.4%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	10.4%	13.3%
+Housing Vacancy Rate:	9.2%	8.3%
+Adults Not Working:	26.3%	28.2%
+Poverty Rate:	8.2%	15.5%
+Median Income Ratio:	84.7%	100%
+Change in Employment:	11.4%	9.4%
+Change in Businesses:	7.4%	4.2%
+Distress Score:	38.6	
+Distress Rank:	10,084 of 26,126
+95+-+-+-+-+-+
+Economic Distress Indicators for: 54491
+White Lake, WI
+
+Population:	1,590
+Minority Share:	3.7%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	13.1%	13.3%
+Housing Vacancy Rate:	5.3%	8.3%
+Adults Not Working:	42.0%	28.2%
+Poverty Rate:	14.2%	15.5%
+Median Income Ratio:	76.1%	100%
+Change in Employment:	21.0%	9.4%
+Change in Businesses:	-9.7%	4.2%
+Distress Score:	65.2	
+Distress Rank:	17,035 of 26,126
+96+-+-+-+-+-+
+Economic Distress Indicators for: 74878
+Wanette, OK
+
+Population:	1,470
+Minority Share:	12.7%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	16.8%	13.3%
+Housing Vacancy Rate:	16.2%	8.3%
+Adults Not Working:	36.7%	28.2%
+Poverty Rate:	16.2%	15.5%
+Median Income Ratio:	103.1%	100%
+Change in Employment:	-2.1%	9.4%
+Change in Businesses:	0.0%	4.2%
+Distress Score:	78.0	
+Distress Rank:	20,387 of 26,12
+97+-+-+-+-+-+
+Economic Distress Indicators for: 76437
+Cisco, TX
+
+Population:	5,420
+Minority Share:	15.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	17.1%	13.3%
+Housing Vacancy Rate:	19.1%	8.3%
+Adults Not Working:	40.0%	28.2%
+Poverty Rate:	22.2%	15.5%
+Median Income Ratio:	69.8%	100%
+Change in Employment:	-10.8%	9.4%
+Change in Businesses:	-10.8%	4.2%
+Distress Score:	96.7	
+Distress Rank:	25,264 of 26,126	
+98+-+-+-+-+-+
+Economic Distress Indicators for: 73560
+Olustee, OK
+
+Population:	780
+Minority Share:	38.0%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	10.6%	13.3%
+Housing Vacancy Rate:	34.4%	8.3%
+Adults Not Working:	22.4%	28.2%
+Poverty Rate:	21.0%	15.5%
+Median Income Ratio:	96.7%	100%
+Change in Employment:	-8.9%	9.4%
+Change in Businesses:	-30.0%	4.2%
+Distress Score:	80.2	
+Distress Rank:	20,956 of 26,126
+99+-+-+-+-+-+
+15086 >> Not Present >> Pop below 500
+100+-+-+-+-+-+
+Economic Distress Indicators for: 73852
+Mooreland, OK
+
+Population:	2,710
+Minority Share:	6.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	11.0%	13.3%
+Housing Vacancy Rate:	15.0%	8.3%
+Adults Not Working:	30.2%	28.2%
+Poverty Rate:	13.8%	15.5%
+Median Income Ratio:	111.8%	100%
+Change in Employment:	-4.6%	9.4%
+Change in Businesses:	14.3%	4.2%
+Distress Score:	53.8	
+Distress Rank:	14,047 of 26,126
+101+-+-+-+-+-+
+Economic Distress Indicators for: 16679
+Six Mile Run, PA
+
+Population:	850
+Minority Share:	0.4%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	19.5%	13.3%
+Housing Vacancy Rate:	5.4%	8.3%
+Adults Not Working:	35.9%	28.2%
+Poverty Rate:	16.5%	15.5%
+Median Income Ratio:	60.5%	100%
+Change in Employment:	9.5%	9.4%
+Change in Businesses:	-33.3%	4.2%
+Distress Score:	80.7	
+Distress Rank:	21,080 of 26,126
+102+-+-+-+-+-+
+Economic Distress Indicators for: 23038
+Columbia, VA
+
+Population:	1,450
+Minority Share:	37.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	21.4%	13.3%
+Housing Vacancy Rate:	8.2%	8.3%
+Adults Not Working:	33.0%	28.2%
+Poverty Rate:	29.7%	15.5%
+Median Income Ratio:	46.7%	100%
+Change in Employment:	9.1%	9.4%
+Change in Businesses:	-22.2%	4.2%
+Distress Score:	90.0	
+Distress Rank:	23,522 of 26,126
+103+-+-+-+-+-+
+Economic Distress Indicators for: 75490
+Trenton, TX
+
+Population:	2,230
+Minority Share:	15.6%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	16.8%	13.3%
+Housing Vacancy Rate:	10.7%	8.3%
+Adults Not Working:	26.0%	28.2%
+Poverty Rate:	14.6%	15.5%
+Median Income Ratio:	105.6%	100%
+Change in Employment:	-5.8%	9.4%
+Change in Businesses:	-8.3%	4.2%
+Distress Score:	70.9	
+Distress Rank:	18,531 of 26,126	
+104+-+-+-+-+-+
+Economic Distress Indicators for: 28433
+Clarkton, NC
+
+Population:	4,940
+Minority Share:	52.0%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	24.6%	13.3%
+Housing Vacancy Rate:	7.4%	8.3%
+Adults Not Working:	34.2%	28.2%
+Poverty Rate:	19.0%	15.5%
+Median Income Ratio:	60.9%	100%
+Change in Employment:	13.6%	9.4%
+Change in Businesses:	-14.9%	4.2%
+Distress Score:	83.8	
+Distress Rank:	21,896 of 26,126
+105+-+-+-+-+-+
+Economic Distress Indicators for: 33025
+Miramar, FL
+
+Population:	60,990
+Minority Share:	88.5%
+Density:	Very High
+ 	Zip	U.S.
+No High School Diploma:	7.4%	13.3%
+Housing Vacancy Rate:	10.5%	8.3%
+Adults Not Working:	18.2%	28.2%
+Poverty Rate:	10.8%	15.5%
+Median Income Ratio:	115.3%	100%
+Change in Employment:	18.1%	9.4%
+Change in Businesses:	13.3%	4.2%
+Distress Score:	18.1	
+Distress Rank:	4,733 of 26,126	
+106+-+-+-+-+-+
+Economic Distress Indicators for: 42050
+Hickman, KY
+
+Population:	3,010
+Minority Share:	31.8%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	29.9%	13.3%
+Housing Vacancy Rate:	21.2%	8.3%
+Adults Not Working:	58.6%	28.2%
+Poverty Rate:	36.3%	15.5%
+Median Income Ratio:	50.6%	100%
+Change in Employment:	-22.9%	9.4%
+Change in Businesses:	-8.9%	4.2%
+Distress Score:	99.8	
+Distress Rank:	26,076 of 26,126	
+107+-+-+-+-+-+
+Economic Distress Indicators for: 97754
+Prineville, OR
+
+Population:	18,660
+Minority Share:	11.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	14.0%	13.3%
+Housing Vacancy Rate:	5.9%	8.3%
+Adults Not Working:	37.4%	28.2%
+Poverty Rate:	20.6%	15.5%
+Median Income Ratio:	69.6%	100%
+Change in Employment:	3.3%	9.4%
+Change in Businesses:	0.2%	4.2%
+Distress Score:	73.6	
+Distress Rank:	19,237 of 26,126	
+108+-+-+-+-+-+
+Economic Distress Indicators for: 90023
+Los Angeles, CA
+
+Population:	46,290
+Minority Share:	98.0%
+Density:	Very High
+ 	Zip	U.S.
+No High School Diploma:	58.5%	13.3%
+Housing Vacancy Rate:	4.8%	8.3%
+Adults Not Working:	33.8%	28.2%
+Poverty Rate:	31.1%	15.5%
+Median Income Ratio:	57.8%	100%
+Change in Employment:	-1.1%	9.4%
+Change in Businesses:	-7.6%	4.2%
+Distress Score:	90.0	
+Distress Rank:	23,504 of 26,126	
+109+-+-+-+-+-+
+Economic Distress Indicators for: 61449
+La Fayette, IL
+
+Population:	570
+Minority Share:	1.4%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	18.0%	13.3%
+Housing Vacancy Rate:	2.7%	8.3%
+Adults Not Working:	35.8%	28.2%
+Poverty Rate:	13.1%	15.5%
+Median Income Ratio:	60.1%	100%
+Change in Employment:	-46.7%	9.4%
+Change in Businesses:	-16.7%	4.2%
+Distress Score:	83.4	
+Distress Rank:	21,798 of 26,126	
+110+-+-+-+-+-+
+Economic Distress Indicators for: 94022
+Los Altos, CA
+
+Population:	19,580
+Minority Share:	34.0%
+Density:	Medium
+ 	Zip	U.S.
+No High School Diploma:	2.0%	13.3%
+Housing Vacancy Rate:	4.5%	8.3%
+Adults Not Working:	27.6%	28.2%
+Poverty Rate:	3.7%	15.5%
+Median Income Ratio:	299.1%	100%
+Change in Employment:	24.7%	9.4%
+Change in Businesses:	10.3%	4.2%
+Distress Score:	3.1	
+Distress Rank:	797 of 26,126	
+111+-+-+-+-+-+
+Economic Distress Indicators for: 62056
+Litchfield, IL
+
+Population:	8,860
+Minority Share:	2.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	13.1%	13.3%
+Housing Vacancy Rate:	8.0%	8.3%
+Adults Not Working:	33.5%	28.2%
+Poverty Rate:	18.9%	15.5%
+Median Income Ratio:	82.0%	100%
+Change in Employment:	-0.4%	9.4%
+Change in Businesses:	-4.7%	4.2%
+Distress Score:	77.0	
+Distress Rank:	20,121 of 26,126	
+112+-+-+-+-+-+
+Economic Distress Indicators for: 33145
+Miami, FL
+
+Population:	32,330
+Minority Share:	89.6%
+Density:	Very High
+ 	Zip	U.S.
+No High School Diploma:	21.3%	13.3%
+Housing Vacancy Rate:	9.8%	8.3%
+Adults Not Working:	24.5%	28.2%
+Poverty Rate:	17.7%	15.5%
+Median Income Ratio:	83.5%	100%
+Change in Employment:	23.8%	9.4%
+Change in Businesses:	7.6%	4.2%
+Distress Score:	53.5	
+Distress Rank:	13,977 of 26,126
+113+-+-+-+-+-+
+Economic Distress Indicators for: 68666
+Stromsburg, NE
+
+Population:	1,550
+Minority Share:	5.0%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	8.2%	13.3%
+Housing Vacancy Rate:	7.3%	8.3%
+Adults Not Working:	16.0%	28.2%
+Poverty Rate:	8.2%	15.5%
+Median Income Ratio:	113.8%	100%
+Change in Employment:	29.6%	9.4%
+Change in Businesses:	7.3%	4.2%
+Distress Score:	11.7	
+Distress Rank:	3,047 of 26,126
+114+-+-+-+-+-+
+Economic Distress Indicators for: 32305
+Tallahassee, FL
+
+Population:	20,630
+Minority Share:	64.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	17.3%	13.3%
+Housing Vacancy Rate:	15.2%	8.3%
+Adults Not Working:	31.2%	28.2%
+Poverty Rate:	26.2%	15.5%
+Median Income Ratio:	75.5%	100%
+Change in Employment:	11.6%	9.4%
+Change in Businesses:	-5.7%	4.2%
+Distress Score:	85.5	
+Distress Rank:	22,348 of 26,126
+115+-+-+-+-+-+
+Economic Distress Indicators for: 08030
+Gloucester City, NJ
+
+Population:	13,330
+Minority Share:	22.2%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	14.7%	13.3%
+Housing Vacancy Rate:	10.3%	8.3%
+Adults Not Working:	33.5%	28.2%
+Poverty Rate:	10.4%	15.5%
+Median Income Ratio:	71.5%	100%
+Change in Employment:	-10.6%	9.4%
+Change in Businesses:	-6.1%	4.2%
+Distress Score:	81.7	
+Distress Rank:	21,346 of 26,126
+116+-+-+-+-+-+
+Economic Distress Indicators for: 81005
+Pueblo, CO
+
+Population:	30,850
+Minority Share:	47.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	9.0%	13.3%
+Housing Vacancy Rate:	5.6%	8.3%
+Adults Not Working:	30.3%	28.2%
+Poverty Rate:	14.5%	15.5%
+Median Income Ratio:	75.0%	100%
+Change in Employment:	7.8%	9.4%
+Change in Businesses:	1.3%	4.2%
+Distress Score:	51.4	
+Distress Rank:	13,427 of 26,126	
+117+-+-+-+-+-+
+Economic Distress Indicators for: 62969
+Olive Branch, IL
+
+Population:	540
+Minority Share:	0.0%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	31.4%	13.3%
+Housing Vacancy Rate:	39.8%	8.3%
+Adults Not Working:	45.6%	28.2%
+Poverty Rate:	13.1%	15.5%
+Median Income Ratio:	64.6%	100%
+Change in Employment:	39.4%	9.4%
+Change in Businesses:	0.0%	4.2%
+Distress Score:	83.2	
+Distress Rank:	21,746 of 26,126
+118+-+-+-+-+-+
+Economic Distress Indicators for: 27018
+East Bend, NC
+
+Population:	7,440
+Minority Share:	12.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	20.5%	13.3%
+Housing Vacancy Rate:	10.3%	8.3%
+Adults Not Working:	32.6%	28.2%
+Poverty Rate:	17.0%	15.5%
+Median Income Ratio:	92.6%	100%
+Change in Employment:	0.4%	9.4%
+Change in Businesses:	-6.9%	4.2%
+Distress Score:	80.4	
+Distress Rank:	21,011 of 26,126
+119+-+-+-+-+-+
+Economic Distress Indicators for: 47118
+English, IN
+
+Population:	3,350
+Minority Share:	3.2%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	21.1%	13.3%
+Housing Vacancy Rate:	6.1%	8.3%
+Adults Not Working:	41.9%	28.2%
+Poverty Rate:	21.2%	15.5%
+Median Income Ratio:	63.2%	100%
+Change in Employment:	22.9%	9.4%
+Change in Businesses:	8.3%	4.2%
+Distress Score:	67.2	
+Distress Rank:	17,558 of 26,126	
+120+-+-+-+-+-+
+Economic Distress Indicators for: 78212
+San Antonio, TX
+
+Population:	28,480
+Minority Share:	67.3%
+Density:	High
+ 	Zip	U.S.
+No High School Diploma:	21.7%	13.3%
+Housing Vacancy Rate:	15.7%	8.3%
+Adults Not Working:	27.2%	28.2%
+Poverty Rate:	20.1%	15.5%
+Median Income Ratio:	75.9%	100%
+Change in Employment:	4.3%	9.4%
+Change in Businesses:	3.4%	4.2%
+Distress Score:	78.9	
+Distress Rank:	20,607 of 26,126
+121+-+-+-+-+-+
+Economic Distress Indicators for: 97371
+Rickreall, OR
+
+Population:	530
+Minority Share:	0.0%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	0.0%	13.3%
+Housing Vacancy Rate:	16.8%	8.3%
+Adults Not Working:	37.9%	28.2%
+Poverty Rate:	3.4%	15.5%
+Median Income Ratio:	125.3%	100%
+Change in Employment:	5.4%	9.4%
+Change in Businesses:	-5.4%	4.2%
+Distress Score:	43.5	
+Distress Rank:	11,353 of 26,126	
+122+-+-+-+-+-+
+Economic Distress Indicators for: 60479
+Verona, IL
+
+Population:	760
+Minority Share:	10.0%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	7.4%	13.3%
+Housing Vacancy Rate:	10.6%	8.3%
+Adults Not Working:	31.7%	28.2%
+Poverty Rate:	7.3%	15.5%
+Median Income Ratio:	159.6%	100%
+Change in Employment:	-18.2%	9.4%
+Change in Businesses:	-33.3%	4.2%
+Distress Score:	56.2	
+Distress Rank:	14,676 of 26,126	
+123+-+-+-+-+-+
+Economic Distress Indicators for: 79007
+Borger, TX
+
+Population:	14,300
+Minority Share:	36.9%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	17.8%	13.3%
+Housing Vacancy Rate:	18.9%	8.3%
+Adults Not Working:	29.3%	28.2%
+Poverty Rate:	20.1%	15.5%
+Median Income Ratio:	87.6%	100%
+Change in Employment:	8.1%	9.4%
+Change in Businesses:	4.9%	4.2%
+Distress Score:	72.5	
+Distress Rank:	18,950 of 26,126
+124+-+-+-+-+-+
+Economic Distress Indicators for: 66548
+Waterville, KS
+
+Population:	880
+Minority Share:	7.5%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	3.7%	13.3%
+Housing Vacancy Rate:	13.6%	8.3%
+Adults Not Working:	21.9%	28.2%
+Poverty Rate:	8.9%	15.5%
+Median Income Ratio:	88.2%	100%
+Change in Employment:	19.3%	9.4%
+Change in Businesses:	-10.0%	4.2%
+Distress Score:	40.5	
+Distress Rank:	10,588 of 26,126
+125+-+-+-+-+-+
+Z72672 >> Not present >> Pop == 297 >> below 500
+34+-+-+-+-+-+
+Economic Distress Indicators for: 68644
+Lindsay, NE
+
+Population:	780
+Minority Share:	1.3%
+Density:	Low
+ 	Zip	U.S.
+No High School Diploma:	10.3%	13.3%
+Housing Vacancy Rate:	2.5%	8.3%
+Adults Not Working:	29.0%	28.2%
+Poverty Rate:	10.0%	15.5%
+Median Income Ratio:	119.1%	100%
+Change in Employment:	-9.5%	9.4%
+Change in Businesses:	-9.5%	4.2%
+Distress Score:	45.1	
+Distress Rank:	11,780 of 26,126
